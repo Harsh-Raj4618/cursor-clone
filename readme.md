@@ -77,7 +77,7 @@ cd cursor-clone
 
 ## ⚠️ Known Issues
 
-- Not fully responsive on small screens
+- Not fully responsive only suitable for desktop view.
 
 - Overlay images might overlap on certain viewports
 
