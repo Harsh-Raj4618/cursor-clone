@@ -8,6 +8,8 @@ This project recreates the layout and visual structure of the original Cursor we
 
 ---
 
+# 📸 Screenshot
+
 ![Screenshot](assets/1.png)
 ![App Screenshot](assets/2.png)
 ![App Screenshot](assets/3.png)
